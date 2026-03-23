@@ -62,9 +62,13 @@ Les plateformes apparaissent à **hauteurs variables** mais avec un **espacement
 ✅ **Deux scènes** :
    - Menu principal,
    - Niveau de jeu.
+   
 ✅ **Système de pause** : Accessible via `[Échap]`.
+
 ✅ **Effets visuels et sonores** pour une expérience plus immersive.
+
 ✅ **Double Saut** pour atteindre des plateformes plus hautes.
+
 ✅ **Variété de plateformes** : hauteurs aléatoires.
 
 ---

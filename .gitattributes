@@ -1,0 +1,11 @@
+* text=auto
+
+*.cs text eol=lf
+*.shader text eol=lf
+*.cginc text eol=lf
+*.hlsl text eol=lf
+
+*.png binary
+*.jpg binary
+*.fbx binary
+*.mp4 binary
